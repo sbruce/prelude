@@ -40,4 +40,4 @@
 ;; (require 'prelude-web) ;; Emacs mode for web templates
 (require 'prelude-xml)
 ;; (require 'prelude-yaml)
-(prelude-require-packages '(use-package treemacs treemacs-evil treemacs-magit dap-mode lsp-mode))
+(prelude-require-packages '(use-package treemacs treemacs-evil treemacs-magit dap-mode lsp-mode solarized-theme))
