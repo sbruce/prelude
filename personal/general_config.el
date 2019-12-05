@@ -4,3 +4,6 @@
 
 (prelude-require-package 'solarized-theme)
 (load-theme 'solarized-light)
+
+(setq whitespace-line-column 200)
+(set-fill-column 200)
