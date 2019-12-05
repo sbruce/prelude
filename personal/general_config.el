@@ -7,3 +7,5 @@
 
 (setq whitespace-line-column 200)
 (set-fill-column 200)
+
+(setq global-display-line-numbers-mode t)
