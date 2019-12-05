@@ -2,4 +2,5 @@
 (setq helm-move-to-line-cycle-in-source nil)
 
 
+(prelude-require-package 'solarized-theme)
 (load-theme 'solarized-light)
